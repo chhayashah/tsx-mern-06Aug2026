@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tumhara-vercel-url.vercel.app/sitemap.xml
